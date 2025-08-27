@@ -41,7 +41,7 @@ A high-performance, accessible table application built with React and TypeScript
 
 ```bash
 # Clone the repository
-git clone <repository-url>
+git clone git@github.com:saalikmubeen/ninja-character-table.git
 cd ninja-character-table
 
 # Install dependencies
